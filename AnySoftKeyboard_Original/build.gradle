@@ -160,7 +160,7 @@ dependencies {
     androidTestCompile 'com.squareup:fest-android:1.0.+'
 }
 
-apply plugin: 'idea'
+apply plugin: 'eclipse'
 
 idea {
     module {
