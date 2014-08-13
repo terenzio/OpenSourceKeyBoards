@@ -23,10 +23,10 @@ public class Main extends Activity implements OnTouchListener, OnClickListener,
 	private int w, mWindowWidth;
 	private String sL[] = { "a", "b", "c", "d", "e", "f", "g", "h", "i", "j",
 			"k", "l", "m", "n", "o", "p", "q", "r", "s", "t", "u", "v", "w",
-			"x", "y", "z", "ç", "à", "é", "è", "û", "î" };
+			"x", "y", "z", "?", "@", "!", "'", ",", "." };
 	private String cL[] = { "A", "B", "C", "D", "E", "F", "G", "H", "I", "J",
 			"K", "L", "M", "N", "O", "P", "Q", "R", "S", "T", "U", "V", "W",
-			"X", "Y", "Z", "ç", "à", "é", "è", "û", "î" };
+			"X", "Y", "Z", "?", "@", "!", "'", ",", "." };
 	private String nS[] = { "!", ")", "'", "#", "3", "$", "%", "&", "8", "*",
 			"?", "/", "+", "-", "9", "0", "1", "4", "@", "5", "7", "(", "2",
 			"\"", "6", "_", "=", "]", "[", "<", ">", "|" };
