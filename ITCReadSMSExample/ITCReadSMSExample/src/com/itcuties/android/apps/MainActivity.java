@@ -21,6 +21,7 @@ import com.itcuties.android.apps.data.SMSData;
  */
 public class MainActivity extends ListActivity {
 
+	@SuppressWarnings("deprecation")
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
